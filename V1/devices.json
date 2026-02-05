@@ -1,0 +1,8 @@
+{
+  "ESP32_A": {
+    "wav": "audio/002.wav"
+  },
+  "ESP32_B": {
+    "mp3": "b.wav"
+  }
+}
