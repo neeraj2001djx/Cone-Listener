@@ -1,0 +1,12 @@
+Start MQTT broker (Mosquitto)
+python server.py
+
+Trigger one device:
+http://PC_IP:5000/trigger/a1b2c3d4
+
+Trigger all:
+http://PC_IP:5000/trigger_all
+
+See devices:
+http://PC_IP:5000/list
+
